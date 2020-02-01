@@ -18,4 +18,3 @@ def prime?(number)
   end 
 end 
 
-prime?(n)
