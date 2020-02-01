@@ -9,7 +9,8 @@
 
 
 def prime?(number)
-  if number > 2 
+  if number < 2 
+    
 end 
 
 prime?(n)
