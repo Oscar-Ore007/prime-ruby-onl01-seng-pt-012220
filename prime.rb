@@ -10,3 +10,5 @@
 
 def prime?(number)
 end 
+
+prime?(n)
